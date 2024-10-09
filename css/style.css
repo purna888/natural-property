@@ -465,7 +465,7 @@ h2 {
 
 /* about */
 #about {
-  background: linear-gradient(160deg, var(--pr-color), #000);
+  background: linear-gradient(160deg, var(--pr-color), #00985b);
   height: 100vh;
   width: 100%;
 }
